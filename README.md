@@ -1,1 +1,2 @@
 # Anaysis-of-California-Rehab-Facilities-Stats
+## I have a passion to use business analysis tools to strengthen and grow rehabilitation services that struggle to provide quality care and utilize their full potential in our current healthcare structure. Dedicated to using creative Fintech solutions to invest in and support rehab services and other under-supported health/wellness sectors through investment or sustainable philanthropic means.
